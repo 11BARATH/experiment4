@@ -1,0 +1,7 @@
+# Define a string
+my_string = "Hello, World!"
+
+# Print each character in the string
+print("Characters in the string:")
+for char in my_string:
+    print(char)
