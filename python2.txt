@@ -1,0 +1,8 @@
+# Original list
+original_list = [1, 2, 3, 4, 5]
+
+# Reversing the list in-place using the reverse() method
+original_list.reverse()
+
+# Displaying the reversed list
+print("Reversed List:", original_list)

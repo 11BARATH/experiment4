@@ -1,0 +1,9 @@
+# Define a range of numbers (adjust the range as needed)
+start = 1
+end = 20
+
+# Print odd numbers in the specified range
+print("Odd Numbers:")
+for number in range(start, end + 1):
+    if number % 2 != 0:
+        print(number)
